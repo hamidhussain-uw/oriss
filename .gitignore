@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-file/
+# local backups of earlier versions, not part of the site
+_vanilla/
+_react-v1/
+.claude/
+*.log
